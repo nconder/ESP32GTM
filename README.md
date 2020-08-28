@@ -4,7 +4,7 @@ goTenna Mesh Bluetooth-LE library for Arduino/ESP32
 
 ## project purpose
 
-To open the goTenna Mesh (GTM) platform to an entire new range of applications, which were not possible using the existing smartphone-oriented apps and SDKs.
+To open the goTenna Mesh (GTM) platform to a wider range of applications, which were not possible using the existing smartphone-oriented apps and SDKs.
 
 ## applications
 
