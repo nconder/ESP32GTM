@@ -23,9 +23,9 @@ char unitTeam[] = "Red";        // Oh YES
 
 // CoT position variables, populated with some dummy data
 // (in production, these should be updated from the GPS receiver!)
-uint64_t gpsLAT = 51948900;    // microdeg
-uint64_t gpsLON = 4053500;     // microdeg
-uint32_t gpsHAE = 1000;        // millimeters
+int64_t gpsLAT = 51948900;     // microdeg
+int64_t gpsLON = 4053500;      // microdeg
+int64_t gpsHAE = 1000;         // millimeters
 bool gpsFix = true;
 
 // time (millis) of last broadcast
